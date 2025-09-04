@@ -1,21 +1,8 @@
 # Sustainable-Systems-Lab---Papers-Catalog
-# 📦 Project Title
 
-> A brief description of your project and what it does.
+## 🔗 Papers' Links by Topic
 
----
-
-## 🚀 Features
-
-- ✅ Feature 1
-- ✅ Feature 2
-- ✅ Feature 3
-
----
-
-## 🔗 Useful Links
-
-| Link                                               |
+| Methodology to create a synthetic grid that captures structural and functional characteristics of actual power grids                                               |
 |----------------------------------------------------|
 | [Modeling, Tuning, and Validating System Dynamics in Synthetic Electric Grids](https://ieeexplore.ieee.org/document/8334287)             |
 | [Try It Out](https://example.com/demo)            |
