@@ -12,10 +12,10 @@
 
 | Flexibility in Data Centers                                               |
 |----------------------------------------------------|
-| [Adapting three data center hubs to local power grids](https://spectrum.ieee.org/dcflex-data-center-flexibility)             |
+| [Adapting Three Data Center Hubs to Local Power Grids](https://spectrum.ieee.org/dcflex-data-center-flexibility)             |
 | [Grid Reliability](https://dl.acm.org/doi/abs/10.1145/3632775.3661959)            |
 | [Curtailment in Renewables](https://dl.acm.org/doi/abs/10.1145/3649432.3649434) |
-| [Demand / Load Flexibility](https://dukespace.lib.duke.edu/items/bb350296-d7a1-4d8f-acb0-2fba9b1f03de)   |
+| [Demand and Load Flexibility](https://dukespace.lib.duke.edu/items/bb350296-d7a1-4d8f-acb0-2fba9b1f03de)   |
 | [AI in Datacenters](https://arxiv.org/abs/2301.03148)   |
 
 ## Tools and Videos
