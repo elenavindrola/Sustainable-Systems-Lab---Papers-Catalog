@@ -6,7 +6,7 @@
 |:----------------------------------------------------|
 | [Modeling, Tuning, and Validating System Dynamics in Synthetic Electric Grids](https://ieeexplore.ieee.org/document/8334287)             |
 | [Grid Structural Characteristics as Validation Criteria for Synthetic Networks](https://ieeexplore.ieee.org/document/7725528)            |
-| [A methodology for the creation of geographically realistic synthetic power flow models](https://ieeexplore.ieee.org/document/7459256) |
+| [A Methodology for the Creation of Geographically Realistic Synthetic Power Flow Models](https://ieeexplore.ieee.org/document/7459256) |
 | [Open Power System Datasets and Open Simulation Engines: A Survey Toward Machine Learning Applications](https://ieeexplore.ieee.org/abstract/document/11015807)   |
 | [Other References](https://electricgrids.engr.tamu.edu/references/)   |
 
