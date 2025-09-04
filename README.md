@@ -17,7 +17,7 @@
 
 | Name              | Link                                               |
 |-------------------|----------------------------------------------------|
-| 📘 Documentation  | [Open Docs](https://ieeexplore.ieee.org/document/8334287)             |
+| 📘 Documentation  | [Modeling, Tuning, and Validating System Dynamics in Synthetic Electric Grids](https://ieeexplore.ieee.org/document/8334287)             |
 | 🌐 Live Demo      | [Try It Out](https://example.com/demo)            |
 | 🐛 Report Issues  | [GitHub Issues](https://github.com/your/repo/issues) |
 | 📂 Related Project | [Awesome Repo](https://github.com/related/repo)   |
