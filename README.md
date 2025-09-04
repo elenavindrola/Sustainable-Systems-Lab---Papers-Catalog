@@ -1,24 +1,32 @@
-# Sustainable-Systems-Lab---Papers-Catalog
+# Sustainable_Systems_Lab_Catalog
 
-## 🔗 Papers' Links by Topic
+## Papers
 
-| Methodology to create a synthetic grid that captures structural and functional characteristics of actual power grids                                               |
+| Grid Data Creation and Manipulation                                               |
 |----------------------------------------------------|
 | [Modeling, Tuning, and Validating System Dynamics in Synthetic Electric Grids](https://ieeexplore.ieee.org/document/8334287)             |
-| [Try It Out](https://example.com/demo)            |
-| [GitHub Issues](https://github.com/your/repo/issues) |
-| [Awesome Repo](https://github.com/related/repo)   |
+| [Grid Structural Characteristics as Validation Criteria for Synthetic Networks](https://ieeexplore.ieee.org/document/7725528)            |
+| [A methodology for the creation of geographically realistic synthetic power flow models](https://ieeexplore.ieee.org/document/7459256) |
+| [Open Power System Datasets and Open Simulation Engines: A Survey Toward Machine Learning Applications](https://ieeexplore.ieee.org/abstract/document/11015807)   |
+| [Other References](https://electricgrids.engr.tamu.edu/references/)   |
 
----
+| Flexibility in Data Centers                                               |
+|----------------------------------------------------|
+| [Adapting three data center hubs to local power grids](https://spectrum.ieee.org/dcflex-data-center-flexibility)             |
+| [Grid Reliability](https://dl.acm.org/doi/abs/10.1145/3632775.3661959)            |
+| [Curtailment in Renewables](https://dl.acm.org/doi/abs/10.1145/3649432.3649434) |
+| [Demand / Load Flexibility](https://dukespace.lib.duke.edu/items/bb350296-d7a1-4d8f-acb0-2fba9b1f03de)   |
+| [AI in Datacenters](https://arxiv.org/abs/2301.03148)   |
 
-## 🛠️ Installation
+## Tools and Videos
 
-```bash
-# Clone the repository
-git clone https://github.com/your/repo.git
+| Grid Simulators                                               |
+|----------------------------------------------------|
+| [PYPSA USA version](https://pypsa-usa.readthedocs.io/en/latest/)             |
+| [PYPSA EU version](https://pypsa-eur.readthedocs.io/en/latest/)            |
+| [PYPSA Tutorials](https://pypsa-eur.readthedocs.io/en/latest/tutorial.html) |
+| [TAMU](https://electricgrids.engr.tamu.edu/) |
 
-# Navigate into the directory
-cd repo
-
-# Install dependencies
-npm install
+| Seminars                                               |
+|----------------------------------------------------|
+| [Interplay between AI and Power Systems](https://www.youtube.com/watch?v=jpv1Iqas4kw)             |
