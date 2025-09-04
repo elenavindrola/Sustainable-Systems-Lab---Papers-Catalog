@@ -17,6 +17,8 @@
 | [Curtailment in Renewables](https://dl.acm.org/doi/abs/10.1145/3649432.3649434) |
 | [Demand and Load Flexibility](https://dukespace.lib.duke.edu/items/bb350296-d7a1-4d8f-acb0-2fba9b1f03de)   |
 | [AI in Datacenters](https://arxiv.org/abs/2301.03148)   |
+| [Power Stabilization for AI Training Datacenters](https://arxiv.org/pdf/2508.14318)   |
+| [Design and Evaluation of an Energy Agile Computing Cluster](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-13.pdf)   |
 
 ## Tools and Videos
 
