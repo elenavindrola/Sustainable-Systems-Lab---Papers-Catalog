@@ -15,12 +15,12 @@
 
 ## 🔗 Useful Links
 
-| Name              | Link                                               |
-|-------------------|----------------------------------------------------|
-| 📘 Documentation  | [Modeling, Tuning, and Validating System Dynamics in Synthetic Electric Grids](https://ieeexplore.ieee.org/document/8334287)             |
-| 🌐 Live Demo      | [Try It Out](https://example.com/demo)            |
-| 🐛 Report Issues  | [GitHub Issues](https://github.com/your/repo/issues) |
-| 📂 Related Project | [Awesome Repo](https://github.com/related/repo)   |
+| Link                                               |
+|----------------------------------------------------|
+| [Modeling, Tuning, and Validating System Dynamics in Synthetic Electric Grids](https://ieeexplore.ieee.org/document/8334287)             |
+| [Try It Out](https://example.com/demo)            |
+| [GitHub Issues](https://github.com/your/repo/issues) |
+| [Awesome Repo](https://github.com/related/repo)   |
 
 ---
 
