@@ -2,7 +2,7 @@
 
 ## Papers
 
-| Grid Data Creation and Manipulation                                               |
+| Grid Data                                               |
 |----------------------------------------------------|
 | [Modeling, Tuning, and Validating System Dynamics in Synthetic Electric Grids](https://ieeexplore.ieee.org/document/8334287)             |
 | [Grid Structural Characteristics as Validation Criteria for Synthetic Networks](https://ieeexplore.ieee.org/document/7725528)            |
