@@ -32,3 +32,4 @@
 | Seminars                                               |
 |:----------------------------------------------------|
 | [Interplay between AI and Power Systems](https://www.youtube.com/watch?v=jpv1Iqas4kw)             |
+| [Empowering the Energy Transition through Fast and Flexible Network Simulation](https://fosdem.org/2025/schedule/event/fosdem-2025-4662-empowering-the-energy-transition-through-fast-and-flexible-network-simulation/)             |
